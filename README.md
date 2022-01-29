@@ -60,7 +60,7 @@ curl http://localhost:9092/kapacitor/v1/ping
 Пустой ответ
 ```
 Скрин:  
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/rdegtyarev/mnt-10-02/blob/main/images/3.png)
 
 ---
 
@@ -83,7 +83,7 @@ curl http://localhost:9092/kapacitor/v1/ping
 ```
 ### Решение  
 Скрин:  
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/rdegtyarev/mnt-10-02/blob/main/images/4.png)
 
 ---
 
@@ -123,4 +123,4 @@ curl http://localhost:9092/kapacitor/v1/ping
 ### Решение  
 
 Скрин:  
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/rdegtyarev/mnt-10-02/blob/main/images/5.png)
